@@ -1,0 +1,25 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "a basic website backend to deploy ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scheeza-Ahmad/Nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "scheeza ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scheeza-Ahmad/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Scheeza-Ahmad/Nodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
